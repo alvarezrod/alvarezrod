@@ -11,6 +11,6 @@ Programador front-end.
 
 
 <b> Experiencia</b>
-[☎ Perfil en LinkIn](https://www.linkedin.com/in/alvarezrod)
+[☎ Perfil en LinkedIn](https://www.linkedin.com/in/alvarezrod)
 
 Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
