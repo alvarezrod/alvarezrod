@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola! Bienvenido a mis primeros trabajos como Programador Front-end 🥩!
 
-<!--
-**alvarezrod/alvarezrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador front-end.
 
-Here are some ideas to get you started:
+<h2>Mis trabajos como principiante.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b> 🚌 Catálogo de mis trabajos.</b>
+
+- [Raton_click](https://github.com/alvarezrod/JuegoGato_click)
+- [E-Commerce Music Store](https://github.com/alvarezrod/E-Commerce)
+
+
+<b> Experiencia</b>
+[☎ Perfil en LinkIn](https://www.linkedin.com/in/alvarezrod)
+
+Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
