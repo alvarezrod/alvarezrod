@@ -10,7 +10,7 @@ Programador front-end.
 - [E-Commerce Music Store](https://github.com/alvarezrod/E-Commerce)
 - [Mantenedor de Temperaturas](https://github.com/alvarezrod/MantenedorTemperaturas)
 - [Juego de Papel y Tijera](https://github.com/alvarezrod/juegopapeltijera)
-
+- [Juego del Gato 2.0 -spoiler : Trae un mapa](https://github.com/alvarezrod/Gato2.0)
 
 <b> Experiencia</b>
 [☎ Perfil en LinkedIn](https://www.linkedin.com/in/alvarezrod)
