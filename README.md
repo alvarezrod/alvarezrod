@@ -23,10 +23,10 @@ ROL : Programador front-end. / FreeLancer.
 
 - [Mantenedor de Temperaturas](https://github.com/alvarezrod/MantenedorTemperaturas)
   <p><strong>Mantenedor de Temperaturas</strong>, aplicación web para la representación de temperaturas en Chile. Permite observar la lectura desde una base de datos local , los diferentes climas de chile, registrar nuevas y dar visibilidad del tiempo.</p>
-    <ol>
-    <li>Registro de nuevas temperaturas, manteniendo la consistencia de los datos.</li>
-    <li>Descargar listado de cuidades en archivo csv.</li>
-    <li>RoadMap: Siguiente versión, será contectado a una base de datos remota.</li>
+  <ol>
+      <li>Registro de nuevas temperaturas, manteniendo la consistencia de los datos.</li>
+      <li>Descargar listado de cuidades en archivo csv.</li>
+      <li>RoadMap: Siguiente versión, será contectado a una base de datos remota.</li>
   </ol>
 
 
