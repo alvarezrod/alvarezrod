@@ -15,4 +15,20 @@ Programador front-end.
 <b> Experiencia</b>
 [☎ Perfil en LinkedIn](https://www.linkedin.com/in/alvarezrod)
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
