@@ -1,6 +1,7 @@
 # Hola! Bienvenido a mis primeros trabajos como Programador Front-end 🥩!
 
-Programador front-end.
+ROL : Programador front-end. / FreeLancer.
+
 
 ## <h2>Mis trabajos como principiante.</h2>
 
