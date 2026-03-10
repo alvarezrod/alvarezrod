@@ -9,15 +9,12 @@ Programador front-end.
 
 -  [E-Commerce Music Store](https://github.com/alvarezrod/mitienda)
   <p>Plataforma Saas E-Commerce Music Store, desarrollada para implementaciones de tiendas en forma rápida</p>
-  
-
-   <details>
-      <summary>Detalles del producto</summary>
-      - [x] Un diseño atractivo y moderno en base al comportamiento actual de compradores.
-      - [x] sdfsfs
-      - [x] sdfsfsf
+  <ol>
+    <li>Un diseño atractivo y moderno en base al comportamiento actual de compradores.</li>
+    <li>Uso de imágenes de alta definición con bajo peso.</li>
+    <li>Una estructura de datos simple y persistente en Firebase.</li>
+  </ol>
  
-   </details>
 
 
 
