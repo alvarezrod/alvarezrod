@@ -9,6 +9,7 @@ Programador front-end.
 
 -  [E-Commerce Music Store](https://github.com/alvarezrod/mitienda)
   <p>Plataforma Saas E-Commerce Music Store, desarrollada para implementaciones de tiendas en forma rápida</p>
+  <p>Tecnologías : Vue, Vuex, VueRouter, Firebase</p>
   <ol>
     <li>Un diseño atractivo y moderno en base al comportamiento actual de compradores.</li>
     <li>Uso de imágenes de alta definición con bajo peso.</li>
