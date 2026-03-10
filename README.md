@@ -35,7 +35,7 @@ ROL : Programador front-end. / FreeLancer.
 
 Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
 
-Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
+
 <details>
 
 <summary>Trabajos Antiguos</summary>
