@@ -45,7 +45,7 @@ ROL : Programador front-end. / FreeLancer.
   </ol>
 
 
-<b> Experiencia</b>
+### <b> Experiencia</b>
 [☎ Perfil en LinkedIn](https://www.linkedin.com/in/alvarezrod)
 
 *Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI*
