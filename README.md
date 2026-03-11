@@ -53,7 +53,7 @@ ROL : Programador front-end. / FreeLancer.
 
 <details>
 
-<summary>Trabajos Antiguos</summary>
+<summary>👴 Trabajos Antiguos</summary>
 
 ### Ruta de aprendizaje
 
