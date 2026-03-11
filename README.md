@@ -9,7 +9,7 @@ ROL : Programador front-end. / FreeLancer.
 
 
 ## [E-Commerce Music Store](https://github.com/alvarezrod/mitienda)
-  <p>Plataforma Saas E-Commerce Music Store, desarrollada para implementaciones de tiendas en forma rápida</p>
+  *<p>Plataforma Saas E-Commerce Music Store, desarrollada para implementaciones de tiendas en forma rápida</p>*
 
   ### Tecnologías
   
@@ -30,8 +30,14 @@ ROL : Programador front-end. / FreeLancer.
 
 
 
-- [Mantenedor de Temperaturas](https://github.com/alvarezrod/MantenedorTemperaturas)
-  <p><strong>Mantenedor de Temperaturas</strong>, aplicación web para la representación de temperaturas en Chile. Permite observar la lectura desde una base de datos local , los diferentes climas de chile, registrar nuevas y dar visibilidad del tiempo.</p>
+## [Mantenedor de Temperaturas](https://github.com/alvarezrod/MantenedorTemperaturas)
+  *<p><strong>Mantenedor de Temperaturas</strong>, aplicación web para la representación de temperaturas en Chile. Permite observar la lectura desde una base de datos local , los diferentes climas de chile, registrar nuevas y dar visibilidad del tiempo.</p>*
+
+  | Front-end  | Back-End |
+  | ------------- | ------------- |
+  | HTML5, CSS, JS  |   |
+
+ ### Características
   <ol>
       <li>Registro de nuevas temperaturas, manteniendo la consistencia de los datos.</li>
       <li>Descargar listado de cuidades en archivo csv.</li>
@@ -42,7 +48,7 @@ ROL : Programador front-end. / FreeLancer.
 <b> Experiencia</b>
 [☎ Perfil en LinkedIn](https://www.linkedin.com/in/alvarezrod)
 
-Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI
+*Sales | PreSales | Tax Compliance | Innovación & Transformación Digital | F# Functional Programming | Blockchain | AI*
 
 
 <details>
