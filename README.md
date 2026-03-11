@@ -1,4 +1,4 @@
-# Hola! Bienvenido a mis primeros trabajos como Programador Front-end 🥩!
+# Hola! Bienvenido al repositorio de mis proyectos como Programador Front-end
 
 ROL : Programador front-end. / FreeLancer.
 
