@@ -11,6 +11,11 @@ ROL : Programador front-end. / FreeLancer.
 ## [E-Commerce Music Store](https://github.com/alvarezrod/mitienda)
   *<p>Plataforma Saas E-Commerce Music Store, desarrollada para implementaciones de tiendas en forma rápida</p>*
 
+  <details>
+   <summary>Preview</summary>
+   ![Texto Alternativo](https://github.com/alvarezrod/mitienda/blob/main/public/UI/image.png)
+  </details>
+
   ### Tecnologías
   
   | Front-end  | Back-End |
