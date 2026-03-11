@@ -13,7 +13,7 @@ ROL : Programador front-end. / FreeLancer.
 
   <details>
    <summary>Preview</summary>
-   ![alt text](https://github.com/alvarezrod/mitienda/blob/main/public/UI/image.png) "ff"
+   https://github.com/alvarezrod/mitienda/blob/main/public/UI/image.png
   </details>
 
   ### Tecnologías
