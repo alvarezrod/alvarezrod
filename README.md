@@ -1,6 +1,17 @@
 # Hola! Bienvenido al repositorio de mis proyectos como Programador Front-end
 
-ROL : Programador front-end. / FreeLancer.
+Mi nombre es Rodrigo Alvarez, Ingeniero Civil Informático con mas de 20 años en la industria de las tecnologías.
+
+## Formación:
+In Civil Informático, U INACAP. Dip en Blockchain (PUC). Certificaciones en Demo2Win, Hyperledger e inglés C1.
+
+## Experiencia:
+Más de 15 años en tecnología y SaaS, ocupando cargos de liderazgo como CTO y Experience Manager en empresas como Sovos, E-Lixir y Paperless, con foco en soluciones B2B/ B2C/ B2G.
+
+## Especialización:
+Preventa, producto y customer success, e-Invoicing, impuestos, fintech, eficiencia comercial, automatización, KPIs y soluciones Enterprise, KYC.
+
+## ROL : Programador front-end. / FreeLancer.
 
 
 ## <h2>Mis trabajos como principiante.</h2>
